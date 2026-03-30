@@ -8,7 +8,7 @@ This project demonstrates subnetting using VLSM and routing between multiple LAN
 
 ## Topology
 
-<image-card alt="Network Topology" src="vlsm-lab-topology.png" ></image-card>
+![VLSM Lab Topology](vlsm-lab-topology.png)
 
 ## 🌐 Network Design
 
