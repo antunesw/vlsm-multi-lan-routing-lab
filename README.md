@@ -14,13 +14,13 @@ This project demonstrates subnetting using VLSM and routing between multiple LAN
 | LAN A | 192.168.1.0/26   | 60    |
 | LAN B | 192.168.1.64/27  | 30    |
 | LAN C | 192.168.1.96/28  | 14    |
-| LAN D | 192.168.1.112/29 | 6     |
+| LAN D | 192.168.1.112/29 | 2   |
 
 ## 🔗 Router Link
 
-* Network: 192.168.1.120/30
-* R1: 192.168.1.121
-* R2: 192.168.1.122
+* Network: 192.168.1.116/30
+* R1: 192.168.1.117
+* R2: 192.168.1.118
 
 ## ⚙️ Features
 
