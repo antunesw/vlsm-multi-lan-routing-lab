@@ -4,7 +4,6 @@
 
 This project demonstrates subnetting using VLSM and routing between multiple LANs connected via two routers.
 
-## 🗺️ Topology
 
 ## Topology
 
