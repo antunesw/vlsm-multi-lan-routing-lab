@@ -6,7 +6,6 @@ This project demonstrates subnetting using VLSM and routing between multiple LAN
 
 ## 🗺️ Topology
 
-![Topology](topology.png)
 
 ## 🌐 Network Design
 
